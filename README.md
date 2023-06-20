@@ -1,2 +1,4 @@
-# ChatWebsite
-This is a chat web-app using technologies like HTML, CSS, JS, NODE.JS, SOCKET.IO
+# ChitChat Web Application using Node.js and Socket.io
+Dependencies -
+   Node.js
+   Socket.io
